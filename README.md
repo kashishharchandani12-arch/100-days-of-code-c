@@ -2,11 +2,11 @@
 
 Repository tracking solutions for the **100 Days of Code Challenge** from UPES.
 - **Challenge Portal**: [UPES Basic Coding with C](https://maitysoumik.github.io/basic-coding-with-c/)
-- **Progress**: 47 / 100 Days Completed (94 / 150 Problems Solved)
+- **Progress**: 100 / 100 Days Completed (150 / 150 Problems Solved)
 
 ---
 
-## ðŸ“… Daily Progress Tracker
+- **Progress**: 100 / 100 Days Completed (150 / 150 Problems Solved)
 
 | Day | Date | Problem 1 | Problem 2 | Topic |
 | :---: | :---: | :--- | :--- | :--- |
@@ -57,8 +57,62 @@ Repository tracking solutions for the **100 Days of Code Challenge** from UPES.
 | Day 45 | 2026-09-23 | [Q89: Count frequency of a given characte...](codes-c/day-45-q1.c) | [Q90: Toggle case of each character in a ...](codes-c/day-45-q2.c) | Strings |
 | Day 46 | 2026-09-24 | [Q91: Remove all vowels from a string....](codes-c/day-46-q1.c) | [Q92: Find the first repeating lowercase ...](codes-c/day-46-q2.c) | Strings |
 | Day 47 | 2026-09-25 | [Q93: Check if two strings are anagrams o...](codes-c/day-47-q1.c) | [Q94: Find the longest word in a sentence...](codes-c/day-47-q2.c) | Strings |
+| Day 48 | 2026-09-30 | [Q95: Check if one string is a rotation of another...](codes-c/day-48-q1.c) | [Q96: Reverse each word in a sentence without changing the word order...](codes-c/day-48-q2.c) | Strings |
+| Day 49 | 2026-10-01 | [Q97: Print the initials of a name...](codes-c/day-49-q1.c) | [Q98: Print initials of a name with the surname displayed in full...](codes-c/day-49-q2.c) | Strings |
+| Day 50 | 2026-10-02 | [Q99: Change the date format from dd/04/yyyy to dd-Apr-yyyy...](codes-c/day-50-q1.c) | [Q100: Print all sub-strings of a string...](codes-c/day-50-q2.c) | Strings |
+| Day 51 | 2026-10-03 | [Q101: Find first and last occurrence indices of a target in a sorted array...](codes-c/day-51-q1.c) | - | Logic Enhancers |
+| Day 52 | 2026-10-04 | [Q102: Find the 0-based index of the ceil of x in a sorted array...](codes-c/day-52-q1.c) | - | Logic Enhancers |
+| Day 53 | 2026-10-05 | [Q103: Calculate the leftmost pivot index of an integer array...](codes-c/day-53-q1.c) | - | Logic Enhancers |
+| Day 54 | 2026-10-06 | [Q104: Find the pivot integer x where sum(1..x) == sum(x..n)...](codes-c/day-54-q1.c) | - | Logic Enhancers |
+| Day 55 | 2026-10-07 | [Q105: Print the majority element appearing strictly more than floor(n/2) times...](codes-c/day-55-q1.c) | - | Logic Enhancers |
+| Day 56 | 2026-10-08 | [Q106: Find the next greater element for each element in an array...](codes-c/day-56-q1.c) | - | Logic Enhancers |
+| Day 57 | 2026-10-09 | [Q107: Find the previous greater element for each element in an array...](codes-c/day-57-q1.c) | - | Logic Enhancers |
+| Day 58 | 2026-10-10 | [Q108: Print array answer where answer[i] is the product of all elements except nums[i]...](codes-c/day-58-q1.c) | - | Logic Enhancers |
+| Day 59 | 2026-10-11 | [Q109: Print the maximum sum of all subarrays of size k...](codes-c/day-59-q1.c) | - | Logic Enhancers |
+| Day 60 | 2026-10-12 | [Q110: Find the maximum element in each contiguous subarray of size k...](codes-c/day-60-q1.c) | - | Logic Enhancers |
+| Day 61 | 2026-10-13 | [Q111: Find the first negative integer in each subarray of size k...](codes-c/day-61-q1.c) | - | Logic Enhancers |
+| Day 62 | 2026-10-14 | [Q112: Find the maximum contiguous subarray sum using Kadane's algorithm...](codes-c/day-62-q1.c) | - | Logic Enhancers |
+| Day 63 | 2026-10-15 | [Q113: Find the kth smallest element in an array...](codes-c/day-63-q1.c) | - | Logic Enhancers |
+| Day 64 | 2026-10-16 | [Q114: Find the length of the longest substring without repeating characters...](codes-c/day-64-q1.c) | - | Logic Enhancers |
+| Day 65 | 2026-10-17 | [Q115: Determine if two lowercase strings s and t are valid anagrams...](codes-c/day-65-q1.c) | - | Logic Enhancers |
+| Day 66 | 2026-10-18 | [Q116: Two Sum - find two distinct indices such that nums[i] + nums[j] == target...](codes-c/day-66-q1.c) | - | Logic Enhancers |
+| Day 67 | 2026-10-19 | [Q117: Merge two sorted arrays of sizes m and n into a sorted array...](codes-c/day-67-q1.c) | - | Logic Enhancers |
+| Day 68 | 2026-10-20 | [Q118: Find the missing number in an array of size n containing integers from 0 to n...](codes-c/day-68-q1.c) | - | Logic Enhancers |
+| Day 69 | 2026-10-21 | [Q119: Find the single repeated element in an integer array...](codes-c/day-69-q1.c) | - | Logic Enhancers |
+| Day 70 | 2026-10-22 | [Q120: Write a program to take a string input and change it to sentence/title case...](codes-c/day-70-q1.c) | - | File Handling |
+| Day 71 | 2026-10-23 | [Q121: Create info.txt in write mode and write user's name and age using fprintf()...](codes-c/day-71-q1.c) | - | File Handling |
+| Day 72 | 2026-10-24 | [Q122: Open an existing file (info.txt) and read/print lines using fgets() until EOF...](codes-c/day-72-q1.c) | - | File Handling |
+| Day 73 | 2026-10-25 | [Q123: Read a text file and count total characters, words, and lines...](codes-c/day-73-q1.c) | - | File Handling |
+| Day 74 | 2026-10-26 | [Q124: Copy content from a source file to a destination file using fgetc() and fputc()...](codes-c/day-74-q1.c) | - | File Handling |
+| Day 75 | 2026-10-27 | [Q125: Open an existing file in append mode and append a user-entered line of text...](codes-c/day-75-q1.c) | - | File Handling |
+| Day 76 | 2026-10-28 | [Q126: Ask user for filename, check if it exists, and display content if it exists...](codes-c/day-76-q1.c) | - | File Handling |
+| Day 77 | 2026-10-29 | [Q127: Read text from input.txt, convert lowercase letters to uppercase, and write to output.txt...](codes-c/day-77-q1.c) | - | File Handling |
+| Day 78 | 2026-10-30 | [Q128: Read a text file and count vowels and consonants...](codes-c/day-78-q1.c) | - | File Handling |
+| Day 79 | 2026-10-31 | [Q129: Read space-separated integers from numbers.txt and compute their sum and average...](codes-c/day-79-q1.c) | - | File Handling |
+| Day 80 | 2026-11-01 | [Q130: Store multiple student records in a file using fprintf(), then read with fscanf() and display...](codes-c/day-80-q1.c) | - | File Handling |
+| Day 81 | 2026-11-02 | [Q131: Create an enumeration for days (SUNDAY to SATURDAY) and print each day with its integer value...](codes-c/day-81-q1.c) | - | Enum |
+| Day 82 | 2026-11-03 | [Q132: Define an enum for traffic lights (RED, YELLOW, GREEN) and print Stop, Wait, or Go...](codes-c/day-82-q1.c) | - | Enum |
+| Day 83 | 2026-11-04 | [Q133: Create an enum for months and print how many days each month has...](codes-c/day-83-q1.c) | - | Enum |
+| Day 84 | 2026-11-05 | [Q134: Define an enum with SUCCESS, FAILURE, and TIMEOUT, and print messages accordingly...](codes-c/day-84-q1.c) | - | Enum |
+| Day 85 | 2026-11-06 | [Q135: Assign explicit enum values starting from 10 and print them...](codes-c/day-85-q1.c) | - | Enum |
+| Day 86 | 2026-11-07 | [Q136: Use enum to represent menu choices (ADD, SUBTRACT, MULTIPLY) and perform operations using switch...](codes-c/day-86-q1.c) | - | Enum |
+| Day 87 | 2026-11-08 | [Q137: Create an enum for user roles (ADMIN, USER, GUEST) and display messages based on role...](codes-c/day-87-q1.c) | - | Enum |
+| Day 88 | 2026-11-09 | [Q138: Print all enum names and integer values using a loop...](codes-c/day-88-q1.c) | - | Enum |
+| Day 89 | 2026-11-10 | [Q139: Show that enums store integers by printing assigned values...](codes-c/day-89-q1.c) | - | Enum |
+| Day 90 | 2026-11-11 | [Q140: Define a struct with enum Gender and print person's gender...](codes-c/day-90-q1.c) | - | Enum |
+| Day 91 | 2026-11-12 | [Q141: Define a structure Student with name, roll_no, and marks, then read and print one student's data...](codes-c/day-91-q1.c) | - | Structures |
+| Day 92 | 2026-11-13 | [Q142: Store details of 5 students in an array of structures and print all...](codes-c/day-92-q1.c) | - | Structures |
+| Day 93 | 2026-11-14 | [Q143: Find and print the student with the highest marks...](codes-c/day-93-q1.c) | - | Structures |
+| Day 94 | 2026-11-15 | [Q144: Write a function that accepts a structure as parameter and prints its members...](codes-c/day-94-q1.c) | - | Structures |
+| Day 95 | 2026-11-16 | [Q145: Return a structure containing top student's details from a function...](codes-c/day-95-q1.c) | - | Structures |
+| Day 96 | 2026-11-17 | [Q146: Create Employee structure with nested Date structure for joining date and print details...](codes-c/day-96-q1.c) | - | Structures |
+| Day 97 | 2026-11-18 | [Q147: Store employee data in a binary file using fwrite() and read using fread()...](codes-c/day-97-q1.c) | - | Structures |
+| Day 98 | 2026-11-19 | [Q148: Take two structs as input and check if they are identical...](codes-c/day-98-q1.c) | - | Structures |
+| Day 99 | 2026-11-20 | [Q149: Use malloc() to allocate structure memory dynamically and print details...](codes-c/day-99-q1.c) | - | Structures |
+| Day 100 | 2026-11-21 | [Q150: Use pointer to struct to modify and display data using -> operator...](codes-c/day-100-q1.c) | - | Structures |
 ---
 
-## ðŸ“ Challenge Structure
+## 📌 Challenge Structure
 - **Days 1 to 50**: 2 problems per day (Phase 1: Fundamental logic, conditionals, loops, arrays, strings).
-- **Days 51 to 100**: 1 problem per day (Phase 2: Advanced problem solving, recursion, data structures).
+- **Days 51 to 100**: 1 problem per day (Phase 2: Advanced problem solving, file handling, enums, structures).
+
